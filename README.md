@@ -8,3 +8,6 @@
 
 ### Technical Background
 My background is Electrical Engineering but I am more interested in the projects related to programming rather than core electrical stuffs like PCBs and all. I like Software programming too. I have programming experience on various languages like C#, C, C++, JavaScript and Python. Also little bit on Asp.Net. Projects related to hardware and software are my dream projects where I can work on Firmware as well as software. 
+
+Link to my favourite meme:
+https://i.pinimg.com/originals/11/b4/20/11b420fbf1595be3056ad6355277933c.jpg
