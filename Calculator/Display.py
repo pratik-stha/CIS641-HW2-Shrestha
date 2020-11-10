@@ -7,3 +7,5 @@ class Display:
         self.textin.set("")
         self.metext=Entry(master,font=("Courier New",12,'bold'),textvar=self.textin,width=25,bd=5,bg='powder blue')
         self.metext.pack()
+
+        
