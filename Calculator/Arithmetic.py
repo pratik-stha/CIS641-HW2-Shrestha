@@ -55,7 +55,7 @@ class Arithmetic():
           self.butdiv=Button(master,padx=14,pady=14,bd=4,bg='white',text="/",command=lambda:self.clickbut("/"),font=("Courier New",16,'bold'))
           self.butdiv.place(x=205,y=310)
 
-          self.butclear=Button(master,padx=14,pady=119,bd=4,bg='white',text="CE",command=self.clrbut,font=("Courier New",16,'bold'))
+          self.butclear=Button(master,padx=14,pady=119,bd=4,bg='red',fg='white',text="CE",command=self.clrbut,font=("Courier New",16,'bold'))
           self.butclear.place(x=270,y=100)
 
           self.butequal=Button(master,padx=151,pady=14,bd=4,bg='white',command=self.equlbut,text="=",font=("Courier New",16,'bold'))
