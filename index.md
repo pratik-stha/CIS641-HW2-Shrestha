@@ -12,7 +12,9 @@
 <br>My term project for this class is <b>Calculator</b>. It is a group project and Vivi Hoang is my team mate for this project. 
 The project is a simple Calculator application created in Python. Tkinter is used for Graphical User Interface. Regarding the features, our project consists of several features like Unit Conversion and Trigonomotric functions. In unit conversion, we have implemented Meter To Feet and vice versa conversion for now. We plan to expand the units in soon future. Similarly, in the Trignometric functions, we have implemented the function for only Sine at the moment. We plan to expand the functions like Cosine and Tan in soon future. 
 
-<br>The Calculator project is a software application project. So it is very essential that we have very good planning. For the project, we have decided to follow the Prototype model. In this model, we plan, analysis, design and test the first version of the application and then iterate it througout the same process and increment the feature. 
+<br>The Calculator project is a software application project. So it is very essential that we have very good planning. For the project, we have decided to follow the Prototype model. In this model, we plan, analysis, design and test the first version of the application and then iterate it througout the same process and increment the feature. For the time management and work breakdown, we have used Gantt Chart as our tool. We keep track of our work and always try our best to achieve the milestone we have set in our timeline. 
+
+<br>As a group project, both of us are assigned with our own tasks. Vivi, my project mate, keeps tracks of our goals, requirements and timeline. She also does all the necessary testing and validation and informs me where we lack and what corrections are to be done. Similarly, my responsibility includes User Interface, logic design, class design, debugging and documentation. 
 
 <br> Detail about our project can be found <a href="https://i.kym-cdn.com/photos/images/masonry/000/873/442/5b0.jpg">here</a>.
 <br>
