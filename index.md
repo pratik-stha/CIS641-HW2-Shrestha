@@ -16,7 +16,7 @@ The project is a simple Calculator application created in Python. Tkinter is use
 
 <br>As a group project, both of us are assigned with our own tasks. Vivi, my project mate, keeps tracks of our goals, requirements and timeline. She also does all the necessary testing and validation and informs me where we lack and what corrections are to be done. Similarly, my responsibility includes User Interface, logic design, class design, debugging and documentation. 
 
-<br> Detail about our project can be found <a href="https://i.kym-cdn.com/photos/images/masonry/000/873/442/5b0.jpg">here</a>.
+<br> Detail about our project can be found <a href="https://pratik-stha.github.io/GVSU-CIS641-MISCHIEF-MANAGEMENT/">here</a>.
 <br>
 <br>
 <img src="https://i.kym-cdn.com/photos/images/masonry/000/873/442/5b0.jpg" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" />
