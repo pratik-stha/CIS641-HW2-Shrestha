@@ -19,4 +19,5 @@ The project is a simple Calculator application created in Python. Tkinter is use
 <br> Detail about our project can be found <a href="https://pratik-stha.github.io/GVSU-CIS641-MISCHIEF-MANAGEMENT/">here</a>.
 <br>
 <br>
+# Just for fun
 <img src="https://i.kym-cdn.com/photos/images/masonry/000/873/442/5b0.jpg" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" />
