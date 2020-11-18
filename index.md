@@ -14,7 +14,7 @@ The project is a simple Calculator application created in Python. Tkinter is use
 
 <br>The Calculator project is a software application project. So it is very essential that we have very good planning. For the project, we have decided to follow the Prototype model. In this model, we plan, analysis, design and test the first version of the application and then iterate it througout the same process and increment the feature. 
 
-<br> Detail about our project can be found <a href= https://pratik-stha.github.io/GVSU-CIS641-MISCHIEF-MANAGEMENT>here</a>.
+<br> Detail about our project can be found <a href="https://i.kym-cdn.com/photos/images/masonry/000/873/442/5b0.jpg">here</a>.
 <br>
 <br>
 <img src="https://i.kym-cdn.com/photos/images/masonry/000/873/442/5b0.jpg" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" />
